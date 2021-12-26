@@ -8,7 +8,6 @@ import java.util.Objects;
 
 @Data
 @AllArgsConstructor
-@NoArgsConstructor
 
 public class Movie {
     private int id;
